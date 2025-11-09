@@ -17,21 +17,24 @@ A modern, feature-rich Tinder clone built with React Native and Expo. Swipe righ
 
 ### Screen Recording
 
-https://github.com/user-attachments/assets/app-demo.mov
+https://drive.google.com/file/d/1zT6Moq2Aax0d24YLs3bk-6qO_NdjfWBK/view?usp=sharing
 
 _Full app walkthrough showing splash, swiping, liked people, and profile screens_
 
 ### Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/ss-1.png" width="200" />
-  <img src="assets/screenshots/ss-2.png" width="200" />
-  <img src="assets/screenshots/ss-3.png" width="200" />
-  <img src="assets/screenshots/ss-4.png" width="200" />
-  <img src="assets/screenshots/ss-5.png" width="200" />
-  <img src="assets/screenshots/ss-6.png" width="200" />
-  <img src="assets/screenshots/ss-7.png" width="200" />
-  <img src="assets/screenshots/ss-8.png" width="200" />
+  <img src="https://github.com/user-attachments/assets/51ca1e09-3867-4bea-a778-66a8b7488469" width="200" alt="ss-1" />
+  <img src="https://github.com/user-attachments/assets/2238e01b-4342-4af4-ac14-064d53706565" width="200" alt="ss-2" />
+  <img src="https://github.com/user-attachments/assets/7f30438f-5f4c-4ff2-a4a4-d319456b77bf" width="200" alt="ss-3" />
+  <img src="https://github.com/user-attachments/assets/96ebbfa3-a05a-46e2-8a8a-bec4bc2d9dae" width="200" alt="ss-4" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/086a7e9e-0ac7-4177-a2d6-96a036a9108f" width="200" alt="ss-5" />
+  <img src="https://github.com/user-attachments/assets/1986c177-324e-47f3-b808-b55e8fe2a8d2" width="200" alt="ss-6" />
+  <img src="https://github.com/user-attachments/assets/f3e637e2-7f4d-4dab-9bfd-1c05ad2f885d" width="200" alt="ss-7" />
+  <img src="https://github.com/user-attachments/assets/47345da9-170c-4a3a-91ae-abcabf92e077" width="200" alt="ss-8" />
 </div>
 
 ---
